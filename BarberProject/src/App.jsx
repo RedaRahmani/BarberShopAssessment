@@ -1,3 +1,13 @@
+import React from "react";
+import { Route, Routes } from "react-router-dom";
+import Home from "./pages/Home";
+import Barbers from "./pages/Barbers";
+import Login from "./pages/Login";
+import About from "./pages/About";
+import Contact from "./pages/Contact";
+import Profile from "./pages/Profile";
+import Appointment from "./pages/Appointment";
+import MyAppointment from "./pages/MyAppointment";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 
